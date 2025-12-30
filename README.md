@@ -24,3 +24,5 @@ It allows the user to draw:
 Make sure the following Python modules are installed:
 ```bash
 pip install numpy
+pip install turtle
+
