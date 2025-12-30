@@ -78,8 +78,6 @@ def parabola():
    
     p = float(input("Enter the distance from vertex to focus (p): "))
     a.penup()
-
-    # move to first point WITHOUT drawing
     x = -200
     y = (x**2) / (4 * p)
     a.goto(x, y)
